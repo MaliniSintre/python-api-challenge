@@ -1,8 +1,8 @@
 Module 6 - Python api challenge
 
 # WeatherPy Folder
-VacationPy.ipynb
-WeatherPy.ipynb
+- VacationPy.ipynb
+- WeatherPy.ipynb
 
 # Output_data folder
 - cities.csv
